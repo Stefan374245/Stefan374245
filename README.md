@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, I am  Stefan<br> I'm a software developer from Dinslaken.<br><br> Check my projects here:  www.portfolio.com</h1>
+<h1 align="left">Hey there, I am  Stefan<br> I'm a software developer from Dinslaken.<br><br> Check my projects here:  </h1>
 
 ###
 
