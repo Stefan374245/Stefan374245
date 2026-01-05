@@ -51,11 +51,9 @@
   <a href="https://www.linkedin.com/in/stefan374245" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/DEINE_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/1277585241015324722" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
 <br />
-
-> **Note:** Ersetze `DEINE_DISCORD_ID` im Link oben durch deine tatsächliche Discord-ID, damit Leute dich direkt anschreiben können!
